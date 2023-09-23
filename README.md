@@ -1,5 +1,5 @@
 # Music_Player
-Responsive Music Player using HTML &amp; CSS
+Music Player using HTML &amp; CSS
 
 Not added full functionalities yet, more changes to be made in future.
 
